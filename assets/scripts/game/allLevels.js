@@ -130,66 +130,11 @@ window.allLevels = [
 	    "Dash",
 	    "level_22",
 	    ["RobTop", "MDK"]
-    ],/*
-    [
-        "every_end",
-	    "Every End",
-	    "level_99",
-	    ["MindCap", "Dimrain47"]
     ],
-    [
-        "bloodbath",
-	    "Bloodbath",
-	    "level_100",
-	    ["Riot", "Dimrain47"]
-    ],
-    [
-        "the_nightmare",
-	    "The Nightmare",
-	    "level_5703070",
-	    ["Jax", "Step"]
-    ],
-    [
-        "override",
-	    "Override",
-	    "level_137409445",
-	    ["Nightcat", "DJ-Nate"]
-    ],
-    [
-        "disco_dinosaur",
-	    "Disco Dinosaur",
-	    "level_137677336",
-	    ["kmr", "DJ-Nate"]
-    ],
-    [
-        "the_dark_star",
-	    "The Dark Star",
-	    "level_116489424",
-	    ["Torrenware", "MidiGuyDP"]
-    ],
-    [
-        "nine_circles",
-	    "Nine Circles",
-	    "level_4284013",
-	    ["Zobros", "Rukkus"]
-    ],
-    [
-        "sunshine",
-	    "Sunshine",
-	    "level_56199846",
-	    ["Unzor", "DjHoneyb"]
-    ],
-    [
-        "stereo_madness",
-	    "Test Level",
-	    "level_23",
-	    ["rohanis0000", "Forever Bound"]
-    ],
-	[
+		[
         "b",
         "B",
         "level_34085027",
         ["motleyorc", "Song 7347"]
     ]
-	*/
 ]
