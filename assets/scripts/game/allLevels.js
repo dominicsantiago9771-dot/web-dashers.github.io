@@ -184,6 +184,12 @@ window.allLevels = [
 	    "Test Level",
 	    "level_23",
 	    ["rohanis0000", "Forever Bound"]
+    ],
+	[
+        "b",
+        "B",
+        "level_34085027",
+        ["motleyorc", "Song 7347"]
     ]
 	*/
 ]
